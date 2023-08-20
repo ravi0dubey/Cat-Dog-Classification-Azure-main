@@ -17,7 +17,8 @@
 
 <img src="deployment-steps/2.png" alt="workflow" width="70%">
 
-<img src="deployment-steps/3.png" alt="workflow" width="70%">
+![image](https://github.com/ravi0dubey/Cat-Dog-Classification-Azure-main/assets/38419795/b2c3783f-6945-4417-8137-8f6c608466c9)
+
 
 <img src="deployment-steps/4.png" alt="workflow" width="70%">
 
