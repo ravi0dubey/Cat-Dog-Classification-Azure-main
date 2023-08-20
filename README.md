@@ -47,12 +47,14 @@ On the Bell icon one message will be flashing, click on it which says "Deploymen
 ## In Github repository. Github/workflows folder will get added
 ![image](https://github.com/ravi0dubey/Cat-Dog-Classification-Azure-main/assets/38419795/59546976-d57c-4723-bc55-51521341deb7)
 
+##gg
+![image](https://github.com/ravi0dubey/Cat-Dog-Classification-Azure-main/assets/38419795/6971ae57-ee93-43a0-b106-1fef4068964e)
 
-<img src="deployment-steps/5.png" alt="workflow" width="70%">
+##
+![image](https://github.com/ravi0dubey/Cat-Dog-Classification-Azure-main/assets/38419795/e26b94ce-edc8-48ce-9167-dc6114275bfb)
 
-<img src="deployment-steps/6.png" alt="workflow" width="70%">
+## Prediction
+![image](https://github.com/ravi0dubey/Cat-Dog-Classification-Azure-main/assets/38419795/ae44302f-d0c6-4366-8342-c7640530f05c)
 
-<img src="deployment-steps/7.png" alt="workflow" width="70%">
 
-<img src="deployment-steps/8.png" alt="workflow" width="70%">
 
