@@ -19,8 +19,9 @@
 
 ![image](https://github.com/ravi0dubey/Cat-Dog-Classification-Azure-main/assets/38419795/b2c3783f-6945-4417-8137-8f6c608466c9)
 
+### Click on Create
+![image](https://github.com/ravi0dubey/Cat-Dog-Classification-Azure-main/assets/38419795/736e9a3f-64f7-4454-a6f3-d9cf83baa432)
 
-<img src="deployment-steps/4.png" alt="workflow" width="70%">
 
 <img src="deployment-steps/5.png" alt="workflow" width="70%">
 
