@@ -31,6 +31,9 @@
 
 ![image](https://github.com/ravi0dubey/Cat-Dog-Classification-Azure-main/assets/38419795/0d33dd64-6d56-4299-88fd-29353babe30b)
 
+## In resource section click on Deployment Centre. There select Source = "Github" and the Authorize Github
+![image](https://github.com/ravi0dubey/Cat-Dog-Classification-Azure-main/assets/38419795/68fe7392-6a3e-462a-93bc-0576d2d59854)
+
 <img src="deployment-steps/5.png" alt="workflow" width="70%">
 
 <img src="deployment-steps/6.png" alt="workflow" width="70%">
