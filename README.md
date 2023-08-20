@@ -8,7 +8,8 @@
 4. python app.py
 5. open in browser: http://localhost:8080/
 
-
+# Point to note
+ Host and Port number not required in app.py.
 
 # Azure Deployment
 
