@@ -38,6 +38,12 @@
 ## After authorization enter github repository and branch name
 ![image](https://github.com/ravi0dubey/Cat-Dog-Classification-Azure-main/assets/38419795/ba3bbebb-9b4b-4e20-8113-97e3817247f7)
 
+## Click Preview and then save at the top.
+
+On the Bell icon one message will be flashing, click on it which says "Deployment Succeeded".
+
+![image](https://github.com/ravi0dubey/Cat-Dog-Classification-Azure-main/assets/38419795/00e7cf59-25a7-4199-9bbd-d77083024eeb)
+
 
 <img src="deployment-steps/5.png" alt="workflow" width="70%">
 
