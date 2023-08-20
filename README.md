@@ -13,9 +13,12 @@
 # Azure Deployment
 
 
-<img src="deployment-steps/1.png" alt="workflow" width="70%">
+## Go to Azure Portal and click on Create a Resource
+![image](https://github.com/ravi0dubey/Cat-Dog-Classification-Azure-main/assets/38419795/37ab5ec7-cbc7-4b73-b9fb-45b91c4b9cb4)
 
-<img src="deployment-steps/2.png" alt="workflow" width="70%">
+# Select Web-App
+![image](https://github.com/ravi0dubey/Cat-Dog-Classification-Azure-main/assets/38419795/faf9edf9-d21f-4932-9b74-178d56e98abe)
+
 
 ![image](https://github.com/ravi0dubey/Cat-Dog-Classification-Azure-main/assets/38419795/b2c3783f-6945-4417-8137-8f6c608466c9)
 
