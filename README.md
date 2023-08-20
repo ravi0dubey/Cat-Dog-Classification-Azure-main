@@ -34,6 +34,10 @@
 ## In resource section click on Deployment Centre. There select Source = "Github" and the Authorize Github
 ![image](https://github.com/ravi0dubey/Cat-Dog-Classification-Azure-main/assets/38419795/68fe7392-6a3e-462a-93bc-0576d2d59854)
 
+## After authorization enter github repository and branch name
+![image](https://github.com/ravi0dubey/Cat-Dog-Classification-Azure-main/assets/38419795/ba3bbebb-9b4b-4e20-8113-97e3817247f7)
+
+
 <img src="deployment-steps/5.png" alt="workflow" width="70%">
 
 <img src="deployment-steps/6.png" alt="workflow" width="70%">
